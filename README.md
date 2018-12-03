@@ -1,4 +1,4 @@
-### Programming-for-DA Ass9gnemnt
+### Programming-for-DA Assignemnt
 numpy.random package
 
 ### Project Title : Programming for DA Assignemnt : numpy.random package
