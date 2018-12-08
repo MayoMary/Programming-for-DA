@@ -11,8 +11,8 @@ The project is based on using the numpy.random package from the Python library.
 - (1) Normal, called standard Normal dsitribution
 - (2) Exponential
 - (3) Binomial
-- (4) Geometric distribution
-- (5) Chi-squared distribution
+- (4) Uniform and
+- (5) Chi-squared
   
  Explain the use of seeds in generating pseudorandom numbers.
 
